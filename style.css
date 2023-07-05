@@ -1,0 +1,17 @@
+h1{
+    color:rgb(255, 5, 38);
+    background-color:lightskyblue;
+    border:dotted 5px rgb(14, 83, 35);
+
+}
+body{
+    background-color:antiquewhite;
+}
+table{
+    background-color: aliceblue;
+}
+.h11{
+    color: green;
+    background-color: lightblue;
+    border:solid 5px;
+}   
